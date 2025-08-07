@@ -1,3 +1,11 @@
+
+<div align="center" style="margin: 140px 0;">
+  <img src="https://media3.giphy.com/media/3o7TKOliZn5OBLLjVe/giphy.gif" 
+       width="100%" 
+       style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" 
+       alt="Pixel Art Animation"/>
+</div>
+
 # 👋 Привет, я Артём !
 
 <p align="center">
