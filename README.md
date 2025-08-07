@@ -1,6 +1,6 @@
 
 <div align="center" style="margin: 140px 0;">
-  <img src="https://media3.giphy.com/media/3o7TKOliZn5OBLLjVe/giphy.gif" 
+  <img src="https://media3.giphy.com/media/3o7TKOliZn5OBLLjVe/giphy.gif)(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXUzYTJkbWFuZ2RubWRrZnAycXF0OTMzNzRweHBqNTV5eHRnYmYycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heOKY8nrJUMfK/giphy.gif" 
        width="100%" 
        style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" 
        alt="Pixel Art Animation"/>
