@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Frontend+Developer;Open+to+Work;From+Ulyanovsk" alt="Титулка" />
 </p>
 
-Я начинающий frontend-разработчик из Ульяновска. Развиваюсь в вебе, учусь на практике и всегда рад новым проектам и интересным задачам. Готов к сотрудничеству и открыт для предложений!
+Я frontend-разработчик из Ульяновска. Развиваюсь в вебе, всегда рад новым проектам и интересным задачам. Готов к сотрудничеству и открыт для предложений!
 
 ---
 
