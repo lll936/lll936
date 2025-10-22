@@ -33,13 +33,23 @@ const aboutMe = {
 ```
 ### 📫 Как со мной связаться
 
-<p align="center"> <a href="mailto:artemchervyakov2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://t.me/worksoll"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://github.com/lll936"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
-
-### 📊 GitHub Stats
-
-### Общая статистика
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lll936&show_icons=true&theme=tokyonight" height="180"/> </p>
+<p align="center">
+  <a href="mailto:твой_email@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/твой_ник">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/твой_сервер_или_ник">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://hh.ru/resume/твой_id">
+    <img src="https://img.shields.io/badge/-HeadHunter-DD3636?style=for-the-badge&logo=headhunter&logoColor=white" />
+  </a>
+  <a href="https://career.habr.com/твой_профиль">
+    <img src="https://img.shields.io/badge/-Habr%20Career-65A3BE?style=for-the-badge&logo=habr&logoColor=white" />
+  </a>
+</p>
 
 ### Часто используемые языки
 
