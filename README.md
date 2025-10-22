@@ -34,19 +34,19 @@ const aboutMe = {
 ### 📫 Как со мной связаться
 
 <p align="center">
-  <a href="mailto:твой_email@gmail.com">
+  <a href="artemchervyakov2@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/твой_ник">
+  <a href="https://t.me/@worksoll">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://discord.gg/твой_сервер_или_ник">
+  <a href="https://discord.gg/pika4y">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://hh.ru/resume/твой_id">
+  <a href="[https://hh.ru/resume/твой_id](https://ulyanovsk.hh.ru/resume_converter/%D0%A7%D0%B5%D1%80%D0%B2%D1%8F%D0%BA%D0%BE%D0%B2%20%D0%90%D1%80%D1%82%D1%91%D0%BC%20%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87.pdf?hash=184cf032ff0f3da5120039ed1f64645836387a&type=pdf&hhtmFrom=resume_list&hhtmSource=resume)">
     <img src="https://img.shields.io/badge/-HeadHunter-DD3636?style=for-the-badge&logo=headhunter&logoColor=white" />
   </a>
-  <a href="https://career.habr.com/твой_профиль">
+  <a href="[https://career.habr.com/твой_профиль](https://career.habr.com/artem_chervyakov)">
     <img src="https://img.shields.io/badge/-Habr%20Career-65A3BE?style=for-the-badge&logo=habr&logoColor=white" />
   </a>
 </p>
@@ -57,8 +57,11 @@ const aboutMe = {
 
 # 🧠 Немного личного
 
-## 🎓 Учусь на факультете информационных технологий
+## 💭 Я хочу не просто писать код — я хочу **творить**.  
+Создавать интерфейсы, которые цепляют взгляд, и решения, которые делают жизнь проще.  
 
-## 🧰 Люблю аккуратный код и красивые интерфейсы
+## 👥 Мне важно быть частью **лучшей команды** — где уважают идеи, шутят на лету и ловят общий ритм.  
+Я быстро нахожу контакт, умею слушать и говорить — люблю, когда код и коммуникация идут в унисон.  
 
-## 🕹 Вдохновляюсь эстетикой пиксель-арта и городских легенд
+## ✨ Верю, что сила разработчика — не только в знаниях, но и в умении **понимать других**.  
+Поэтому всегда держу баланс между логикой и человечностью.
