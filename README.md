@@ -50,11 +50,8 @@ const aboutMe = {
   </a>
 </p>
 
-### Часто используемые языки
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lll936&layout=pie&theme=tokyonight&hide=jupyter%20notebook&langs_count=8" height="250" alt="Most Used Languages"/>
+  <img src="https://media.giphy.com/media/3o7TKOliZn5OBLLjVe/giphy.gif" alt="Pixel Vinyl" width="300" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.3);" />
 </p>
 
 # 🧠 Немного личного
