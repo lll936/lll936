@@ -43,10 +43,10 @@ const aboutMe = {
   <a href="https://discord.gg/pika4y">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="[https://hh.ru/resume/твой_id](https://ulyanovsk.hh.ru/resume_converter/%D0%A7%D0%B5%D1%80%D0%B2%D1%8F%D0%BA%D0%BE%D0%B2%20%D0%90%D1%80%D1%82%D1%91%D0%BC%20%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87.pdf?hash=184cf032ff0f3da5120039ed1f64645836387a&type=pdf&hhtmFrom=resume_list&hhtmSource=resume)">
+  <a href="https://hh.ru/resume/твой_id](https://ulyanovsk.hh.ru/resume_converter/%D0%A7%D0%B5%D1%80%D0%B2%D1%8F%D0%BA%D0%BE%D0%B2%20%D0%90%D1%80%D1%82%D1%91%D0%BC%20%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87.pdf?hash=184cf032ff0f3da5120039ed1f64645836387a&type=pdf&hhtmFrom=resume_list&hhtmSource=resume">
     <img src="https://img.shields.io/badge/-HeadHunter-DD3636?style=for-the-badge&logo=headhunter&logoColor=white" />
   </a>
-  <a href="[https://career.habr.com/твой_профиль](https://career.habr.com/artem_chervyakov)">
+  <a href="https://career.habr.com/твой_профиль](https://career.habr.com/artem_chervyakov">
     <img src="https://img.shields.io/badge/-Habr%20Career-65A3BE?style=for-the-badge&logo=habr&logoColor=white" />
   </a>
 </p>
