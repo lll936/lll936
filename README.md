@@ -52,7 +52,7 @@ const aboutMe = {
 
 ### Часто используемые языки
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lll936&layout=compact&theme=tokyonight" height="180"/> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lll936&layout=pie&theme=tokyonight" height="180"/>
 
 # 🧠 Немного личного
 
