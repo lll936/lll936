@@ -34,7 +34,7 @@ const aboutMe = {
 ### 📫 Как со мной связаться
 
 <p align="center">
-<a href="mailto:artemchervyakov2@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=artemchervyakov2@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
   <a href="https://t.me/worksoll" title="Telegram">
