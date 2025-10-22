@@ -19,7 +19,7 @@
 ## 🛠 Мой стек технологий
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,jsx,php,laravel,docker,git,figma,bootstrap" alt="Stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,docker,git,figma,bootstrap" alt="Stack icons" />
 </p>
 
 ```javascript
@@ -29,6 +29,7 @@ const aboutMe = {
   tools: ["Git", "Figma", "Docker"],
   learning: ["TypeScript"],
 };
+
 ```
 ### 📫 Как со мной связаться
 
