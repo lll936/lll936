@@ -37,22 +37,18 @@ const aboutMe = {
   <a href="mailto:artemchervyakov2@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
   <a href="https://t.me/worksoll" title="Telegram">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-
   <a href="https://discord.gg/pika4y" title="Discord: lll">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-
   <a href="https://ulyanovsk.hh.ru/resume_converter/%D0%A7%D0%B5%D1%80%D0%B2%D1%8F%D0%BA%D0%BE%D0%B2%20%D0%90%D1%80%D1%82%D1%91%D0%BC%20%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87.pdf?hash=184cf032ff0f3da5120039ed1f64645836387a&type=pdf&hhtmFrom=resume_list&hhtmSource=resume" 
      download
      title="Скачать резюме с HeadHunter">
     <img src="https://img.shields.io/badge/-Скачать_резюме-DD3636?style=for-the-badge&logo=headhunter&logoColor=white" alt="HeadHunter PDF" />
   </a>
 </p>
-
 
 ### Часто используемые языки
 
