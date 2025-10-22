@@ -19,14 +19,15 @@
 ## 🛠 Мой стек технологий
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,figma,bootstrap" alt="Stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,jsx,php,laravel,docker,git,figma,bootstrap" alt="Stack icons" />
 </p>
 
 ```javascript
 const aboutMe = {
-  code: ["HTML", "CSS", "JavaScript"],
-  tools: ["VS Code", "Git", "Figma", "Photoshop"],
-  learning: ["React", "TypeScript"],
+  code: ["HTML", "CSS", "JavaScript", "PHP", "JSX"],
+  frameworks: ["React", "Laravel", "Bootstrap"],
+  tools: ["Git", "Figma", "Docker"],
+  learning: ["TypeScript"],
 };
 ```
 ### 📫 Как со мной связаться
